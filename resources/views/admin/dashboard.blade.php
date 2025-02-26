@@ -9,7 +9,5 @@
 <body>
     <h1>Painel Administrador</h1>
 
-    <h2>Estoque de Produtos</h2>
-
 </body>
 </html>
