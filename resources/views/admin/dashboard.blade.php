@@ -8,7 +8,12 @@
 </head>
 <body>
     <h1>Painel Administrador</h1>
+<<<<<<< HEAD
+     <p>Anna</p>  
+      <h1>Olá mundo</h1>
+=======
      <p>Anna</p>   
      <p> danie</p>
+>>>>>>> 0587c319645d1363e8468a43020100f36ecb91ab
 </body>
 </html>
